@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá👋😊
 
-<!--
-**sophis22/sophis22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bom dia,Boa tarde,Boa noite ou qualquer horario que vc ver isso
 
-Here are some ideas to get you started:
+💕❤️🩷Boas vindas ao meu perfil(meu espaço de trabalho nessa plataforma por enquanto) 💙🩵💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é *Sophia Cristine*🪻🪷🌺🌸
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
